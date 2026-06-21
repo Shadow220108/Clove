@@ -14,6 +14,10 @@ First ever paw shaped tamagotchi, with 4 buttons, LEDs, screen and battery
 | --- |
 | ![](https://github.com/Shadow220108/Clove/blob/main/assets/clove_skelly.png) | 
 
+The case is made to be paw shaped, designed in two halves which are supposed to be put together with 4 different M3x8mm screws.  
+It has a slot to hold the battery, 4 screw holes to hold and tighten the PCB! The top case features 4 holes for the buttons and 
+a space for the screen.  
+
 | Zine |
 | --- |
 | ![](https://github.com/Shadow220108/Clove/blob/main/assets/clove(1).png) |
@@ -24,7 +28,8 @@ First ever paw shaped tamagotchi, with 4 buttons, LEDs, screen and battery
 |--- |  
 
 
- ### The PCB is 2 layers with dimensions under 100 by 100mm,   
+ The PCB is 2 layers with dimensions under 100 by 100mm, it is designed to be in a paw shape has some cool 
+ silkscreen with red color, cause red colored PCBs are cool.  
 
 
  ### All the PCB files are [here](https://github.com/Shadow220108/Clove/tree/main/PCB) 
@@ -46,21 +51,19 @@ Here are the schematic designs,
 
 ## Why was it made?  
 
-While using the Seed Studio Xiao RP2040 for one of my projects, I realised it doesn't have LiPo support   
-and I couldn't use it, unfortunately I had to use a different MCU then, but now I designed one with  
-the simplicity of RP2040 with being able to charge LiPo 
+It was made for fallout hackclub with the amazing guide made by @Tanuki ( huge credits to him ) 
 
 ## How you can get one for yourself? 
 
-That is pretty easy, you have all the files you will need in the production folder, order the development  
-board from any PCB fab ( I chose JLC cause its cheap and has good quality ) and BINGO! You will have it  
-to use for any purpose you want!  
+That is pretty easy, 
 
-## How do you use it?  
-You can use it as any normal RP2040 Devboard, enter the boootloader mode  
-by holding the BOOT buttom while connecting to your device, flash it with  
-firmware and you are good to go!  I have attached a simple code to blink the LED  
-available on the board.  
+1. Order all the parts going through the BOM
+2. Start by soldering all the components on to the PCB
+3. Put the buttons in the holes, screw the PCB to the case and screw both the halves together
+4. Flash the Xiao with firmware and boom
+5. Start playing with your tamagotchi
+
+   
 
 ## BOM  
 
