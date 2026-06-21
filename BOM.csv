@@ -1,0 +1,15 @@
+,,,,,
+Product,Description,Quantity,Unit Price,Link ,Total cost ( Including Shipping )
+,,,,,
+PCB,to connect and hold all the electronic components,5 ( MOQ ),2$,Link,12.31$
+Xiao ESP32C6,MCU for running the screen,1,7.79$,Link,8.32$
+"0.96"" OLED",Main display,1,1.69$,Link,2.22$
+Tactile Switch buttons (6x6mm),To control the character,10 ( MOQ ) ,0.10$,Link,0.10$
+M3x5mm Heastset Inserts,"To hold downt the top and bottom case
+",8,0.10$,LInk,1.50$
+M3x8mm Screws,To hold downt the top and bottom case,8,0.20$,LInk,0.20$
+Buzzer,to make some sounds,1,0.48$,LInk,0.48$
+LiPo Battery,To power everything!,1,1.65$,Link,1.65$
+LEDs,They light up,12,Self sourced,,
+Resistors ,for the battery voltage,2,Self sourced,,
+,,,,Total cost,26.78
