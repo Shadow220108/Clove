@@ -3,7 +3,7 @@
   <img src="https://github.com/Shadow220108/Clove/blob/main/assets/clove.png" alt="apex banner">
 
   <br>
-  Apex
+  Clove
   <br>
 </h1>
 <h3 align="center">
