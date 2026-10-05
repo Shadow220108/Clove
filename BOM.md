@@ -23,7 +23,7 @@
 | They light up | — | 12 | $0.00 | $0.00 | — |
 | for the battery voltage | — | 2 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$9199.00** | — |
+| **Total** | — | — | — | **$9199.00** | — |
 
-$100.00 left of the tier's funding.
+**$9099.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
